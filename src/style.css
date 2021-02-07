@@ -467,7 +467,7 @@ NAVBAR
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #fff;
+  background-color: #e69814;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -477,7 +477,7 @@ NAVBAR
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #0078ff;
+  background-color: #fff;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
@@ -488,7 +488,7 @@ NAVBAR
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #0078ff;
+  color: #fff;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
