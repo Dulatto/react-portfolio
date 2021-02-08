@@ -1,6 +1,8 @@
 /*
 GENERAL STYLING
 */
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=PT+Sans+Narrow:wght@400;700&display=swap');
 body {
   background-color: #f5f5f5!important;
   color: #4e4e4e!important;
@@ -12,7 +14,13 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1e1e1e;
+  color: #1e1e1e; 
+}
+h3,
+h4,
+h5,
+h6 {  
+  font-family: 'Cabin', sans-serif;
 }
 
 a {
@@ -318,7 +326,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #0078ff;
+  background: #e69814;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -481,7 +489,7 @@ NAVBAR
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #0078ff;
+  color: #fff;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
