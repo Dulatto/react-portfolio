@@ -17,7 +17,7 @@ class Contact extends React.Component {
                   <div className="row">
                     <div className="col-md-6">
                       <div className="title-box-2">
-                        <h5 className="title-left">Send A Message</h5>
+                        <h5 className="title-left">Send a message</h5>
                       </div>
                       <div>
                         <form
@@ -99,7 +99,7 @@ class Contact extends React.Component {
                     </div>
                     <div className="col-md-6">
                       <div className="title-box-2 pt-4 pt-md-0">
-                        <h5 className="title-left">Get in Touch</h5>
+                        <h5 className="title-left">Get in touch</h5>
                       </div>
                       <div className="more-info">
                         <p className="lead">

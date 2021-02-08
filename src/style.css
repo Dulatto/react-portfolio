@@ -60,7 +60,7 @@ a:hover {
 
 .box-shadow-a,
 .button:hover {
-  box-shadow: 0 0 0 4px #cde1f8;
+  box-shadow: 0 0 0 4px #ffc666;
 }
 
 .display-5 {
@@ -887,15 +887,15 @@ BUTTON
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #e69814;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
-  background-color: #0078ff;
+  background-color: #e69814;
   color: #fff;
-  border-color: #cde1f8;
+  border-color: #ffc666;
 }
 
 .button-big {
