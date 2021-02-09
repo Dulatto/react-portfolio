@@ -112,7 +112,7 @@ class About extends React.Component {
                   <div className="col-md-6">
                     <div className="about-me pt-4 pt-md-0">
                       <div className="title-box-2">
-                        <h5 className="title-left">About Me</h5>
+                        <h5 className="title-left">About me</h5>
                       </div>
                       {this.state.about_me.map(content => {
                         return (
