@@ -161,9 +161,9 @@ a:hover {
 }
 
 .line-mf {
-  width: 40px;
-  height: 5px;
-  background-color: #0078ff;
+  width: 100px;
+  height: 3px;
+  background-color: #e69814;
   margin: 0 auto;
 }
 
@@ -182,7 +182,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #e69814;
   width: 100px;
   bottom: -12px;
 }
