@@ -15,7 +15,7 @@ class Intro extends React.Component {
           <div className="table-cell">
             <div className="container">
               <h1 className="intro-title mb-4">Hello, I am Dulat</h1>
-              <p className="intro-subtitle">
+              <h3 className="intro-subtitle text-white">
                 <span className="text-slider-items"></span>
                 <strong className="text-slider">
                   <Typed
@@ -29,7 +29,7 @@ class Intro extends React.Component {
                     loop
                   />
                 </strong>
-              </p>
+              </h3>
               <p className="pt-3">
                 <a
                   className="btn btn-outline-warning js-scroll px-4"

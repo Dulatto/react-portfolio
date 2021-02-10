@@ -224,7 +224,6 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
-  background-color: #e69814;
   color: #fff;
   box-shadow: 0 0 0 3px #ffca70;
   transition: all 500ms ease;
@@ -692,7 +691,7 @@ ABOUT
 }
 
 .skill-mf .progress {
-  background-color: #cde1f8;
+  background-color: #1e1e1e;
   margin: .5rem 0 1.2rem 0;
   border-radius: 0;
   height: .7rem;
@@ -700,7 +699,7 @@ ABOUT
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #0078ff;
+  background-color: #e69814;
 }
 
 /*
