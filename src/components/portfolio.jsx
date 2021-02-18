@@ -38,7 +38,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Lorem Ipsum</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap ReactJS
+                            Bootstrap ReactJS
                           </span>
                         </div>
                       </div>
@@ -99,7 +99,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Lorem Ipsum</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap Webpack SmoothScrolling
+                            Bootstrap Webpack SmoothScrolling
                             VanillaJS
                           </span>{" "}
                         </div>
@@ -161,7 +161,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Lorem Ipsum</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap Webpack ReactJS
+                            Bootstrap Webpack ReactJS
                           </span>
                           {/*} / <span className="w-date">18 Sep. 2018</span>*/}
                         </div>
@@ -343,7 +343,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Lorem Ipsum</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap MERN
+                            Bootstrap MERN
                           </span>
                         </div>
                       </div>
